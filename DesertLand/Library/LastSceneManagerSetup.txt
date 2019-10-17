@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/DesertLand_TargetGroupCam.unity
+  isLoaded: 1
+  isActive: 1
